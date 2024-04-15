@@ -3,7 +3,7 @@ import json, requests
 from insides.bcolors import bcolors
 from socialscan.util import Platforms, sync_execute_queries
 
-def SocialScan(mail,_verbose=None):
+def SocialScan(sandratralka46@gmail.com,_verbose=None):
 	if _verbose != None:
 		try:
 			queries = [mail]
